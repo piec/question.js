@@ -1,0 +1,16 @@
+{
+  "name": "questionjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pierre",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "@types/set-interval-async": "^1.0.0",
+    "express": "^4.17.1",
+    "set-interval-async": "^2.0.3"
+  }
+}
